@@ -2,7 +2,7 @@
 <feature
       id="com.basistech.m2e.code.quality.pmd"
       label="PMD plugin configurator for M2Eclipse"
-      version="1.0.0.qualifier">
+      version="1.1.0.qualifier">
 
    <requires>
       <import feature="com.basistech.m2e.code.quality.shared" version="1.0.0.qualifier" match="perfect"/>
